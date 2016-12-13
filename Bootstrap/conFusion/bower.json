@@ -1,0 +1,27 @@
+{
+  "name": "conFusion",
+  "description": "Website for restaurant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Nicole Gager"
+  ],
+  "license": "MIT",
+  "homepage": "Ristorante Con Fusion",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
